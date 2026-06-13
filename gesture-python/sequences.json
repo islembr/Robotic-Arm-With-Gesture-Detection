@@ -1,0 +1,36 @@
+{
+  "THUMBS_UP": [
+    {
+      "base": 121,
+      "shoulder": 133,
+      "elbow": 40,
+      "wrist": 130,
+      "gripper": 39,
+      "delay": 500
+    },
+    {
+      "base": 121,
+      "shoulder": 133,
+      "elbow": 40,
+      "wrist": 76,
+      "gripper": 74,
+      "delay": 500
+    },
+    {
+      "base": 150,
+      "shoulder": 45,
+      "elbow": 95,
+      "wrist": 76,
+      "gripper": 74,
+      "delay": 500
+    },
+    {
+      "base": 62,
+      "shoulder": 103,
+      "elbow": 131,
+      "wrist": 76,
+      "gripper": 26,
+      "delay": 500
+    }
+  ]
+}

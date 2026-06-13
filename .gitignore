@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+dist/
+build/
+.expo/
+web-build/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs and caches
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+
+# Arduino temporary files
+*.tmp
+
+# Local database files
+*.sqlite
+*.db
+data/
+mongodb/

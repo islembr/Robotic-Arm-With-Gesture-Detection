@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Aidant">
+  <rect width="512" height="512" rx="112" fill="#0ea5e9"/>
+  <path d="M144 328c0-48 40-88 88-88h48c48 0 88 40 88 88v38H144v-38Z" fill="#ffffff" opacity=".95"/>
+  <circle cx="256" cy="176" r="74" fill="#ffffff"/>
+  <path d="M168 344h176M202 346V253M310 346V253" stroke="#0f766e" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="205" cy="173" r="14" fill="#102033"/>
+  <circle cx="307" cy="173" r="14" fill="#102033"/>
+  <path d="M222 211c22 21 46 21 68 0" stroke="#102033" stroke-width="16" stroke-linecap="round" fill="none"/>
+</svg>

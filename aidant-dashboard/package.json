@@ -1,0 +1,17 @@
+{
+  "name": "aidant-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/web",
+    "apps/api"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @aidant/api & npm run dev --workspace @aidant/web",
+    "dev:web": "npm run dev --workspace @aidant/web",
+    "dev:api": "npm run dev --workspace @aidant/api",
+    "test:mqtt-pipeline": "node scripts/test-mqtt-pipeline.js",
+    "build": "npm run build --workspace @aidant/api && npm run build --workspace @aidant/web",
+    "typecheck": "npm run typecheck --workspace @aidant/api && npm run typecheck --workspace @aidant/web"
+  }
+}
